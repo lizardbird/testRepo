@@ -1,1 +1,3 @@
 Something cool
+
+Modifying this resume file to test my abilities with git
